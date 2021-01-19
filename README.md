@@ -14,6 +14,10 @@ that were retiring. Here is what I found out:
 1) The highest number of those retiring or close to retiring were **Senior Engineers** or **Senior Staff**. Third highest count of retirees had the 
 **Engineer** job title.
 
+This image shows the number of people eligible for retirement for each department:
+
+![retired_emp_count](https://github.com/Kyle2Miles93/Pewlett-Hackard-Analysis/blob/main/retired_emp_count_screenshot.png)
+
 2) Department 5 (d005), or the Development department, turns out to have the highest number of employees: 9,281 total.
 
 3) Through querying for data with SQL, I discovered that there were many duplicate entries in the employee csv file that I recieved.
